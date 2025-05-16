@@ -1,7 +1,7 @@
-#Bias UnderminingAccuracy: A Deep Learning Study on Race and Chest X-ray Diagnosis
-##Prerna Joshi CS 4620 Senior Project Report 
-###Under Supervision of Prof Amar Raheja
- ###California State Polytechnic University, Pomona, California
+# Bias UnderminingAccuracy: A Deep Learning Study on Race and Chest X-ray Diagnosis
+## Prerna Joshi CS 4620 Senior Project Report 
+### Under Supervision of Prof Amar Raheja
+ ### California State Polytechnic University, Pomona, California
 
 
 
